@@ -16,7 +16,8 @@ defaults:
     layout: post
     permalink: "/posts/:title/"
     file: 
-    key code: 
+    key code:
+    is-free: false
 - scope:
     path: ''
     type: pages
