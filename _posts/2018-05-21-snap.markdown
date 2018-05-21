@@ -1,8 +1,9 @@
 ---
-title: Snap
+title: Cracking chest open
 date: 2018-05-21 22:16:00 Z
+file: "/uploads/Cracking%20Chest%20Open-SoundBible.com-2009973824.wav"
+key code: 70
 date field: 
-is free: 
 ---
 
-A snapping sound
+The sound of cracking a chest open.
