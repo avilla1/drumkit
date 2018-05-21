@@ -52,10 +52,11 @@ function removeTransition(e) {
         <span class="sound"> {{ post.title }} </span>
       </div>
   </div>
-{% endfor %}
 
 <!-- Sounds -->
 <audio data-key="{{ post.keycode }}" src="{{ post.file }}"></audio>
 
+{% endfor %}
+    
 </body>
 </html>
